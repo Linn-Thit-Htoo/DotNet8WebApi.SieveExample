@@ -1,6 +1,3 @@
-using DotNet8WebApi.SieveExample.Db;
-using Sieve.Services;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

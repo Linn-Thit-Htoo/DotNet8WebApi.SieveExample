@@ -1,9 +1,4 @@
-﻿using DotNet8WebApi.SieveExample.Db;
-using Microsoft.AspNetCore.Mvc;
-using Sieve.Models;
-using Sieve.Services;
-
-namespace DotNet8WebApi.SieveExample.Controllers;
+﻿namespace DotNet8WebApi.SieveExample.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
