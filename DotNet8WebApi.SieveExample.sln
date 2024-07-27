@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35005.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8WebApi.SieveExample", "DotNet8WebApi.SieveExample\DotNet8WebApi.SieveExample.csproj", "{6824090D-2F57-4DA8-B410-A3488E0DA9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6824090D-2F57-4DA8-B410-A3488E0DA9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6824090D-2F57-4DA8-B410-A3488E0DA9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6824090D-2F57-4DA8-B410-A3488E0DA9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6824090D-2F57-4DA8-B410-A3488E0DA9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5977EB9-31BA-4405-A576-27F8469B1F55}
+	EndGlobalSection
+EndGlobal
